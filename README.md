@@ -1,5 +1,5 @@
 # TicTacToe
-This program is the solution of test task, listed here: https://gist.github.com/thenanyu/8b865b1b9ac8a0a022655966323a196b
+This program is the solution of the test task, listed here: https://gist.github.com/thenanyu/8b865b1b9ac8a0a022655966323a196b
 
 ## Requirements
 1. Ruby-2.1.2p95
