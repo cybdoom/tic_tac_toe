@@ -25,7 +25,8 @@ When it is Your turn to make a move, enter one of the following commands and pre
 3. Symbol "@" to restart the game.
 
 ## Short architecture overview, potential improvements
-With current architecture it is easy to extend the game in several ways:
+./new_game.rb is the main executable script, it operates with all other source classes.
+With current architecture it is easy to extend the game in several ways, manipulating with decleared constants values and arguments being passed to Game and Field constructors. Examples:
 
 1. Change field size
 Edit constant **FIELD_SIZE** decleared in ./new_game.rb
